@@ -215,3 +215,4 @@ pip-selfcheck.json
 
 # ignore data dir
 data/
+test/
