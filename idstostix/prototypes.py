@@ -42,3 +42,13 @@ indicator_prototype = {
     "pattern": "[url:value = 'http://x4z9arb.cn/4712/']",
     "valid_from": "2014-06-29T13:49:37.079000Z"
 }
+
+identity_prototype = {
+    "type": "identity",
+    "id": "identity--733c5838-34d9-4fbf-949c-62aba761184c",
+    "created": "2016-08-23T18:05:49.307Z",
+    "modified": "2016-08-23T18:05:49.307Z",
+    "name": "Disco Team",
+    "description": "Disco Team is the name of an organized threat actor crime-syndicate.",
+    "identity_class": "organization"
+}
